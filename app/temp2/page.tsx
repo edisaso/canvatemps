@@ -130,7 +130,7 @@ export default function Temp2() {
                 <div className="flex flex-col gap-5">
                     <Image src="https://ancaaaaaa.my.canva.site/sales-company-website/videos/6053f3729925d013cec6f2d08778165e.gif" alt="flower" height={112} width={112} />
                     <p className="font-bold">AGILE, VERSATILE, ENGAGED</p>
-                    <p>Write a paragraph that talks about your company here. You can talk about your company&apos;s background, history, mission, vision, or philosophy. Anything that will introduce your brand's persona to your clients.</p>
+                    <p>Write a paragraph that talks about your company here. You can talk about your company&apos;s background, history, mission, vision, or philosophy. Anything that will introduce your brand&apos;s persona to your clients.</p>
                     <p>This will help build a connection between you and them, that hopefully leads into a working relationship.</p>
                 </div>
                 <div className="flex flex-col gap-5">
