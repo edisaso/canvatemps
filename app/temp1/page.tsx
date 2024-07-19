@@ -22,9 +22,9 @@ export default function Temp1() {
 
       <div className="bg-blue-700 p-5">
         <h1 className="text-4xl font-bold text-left text-orange-500 pt-[100px]">MURIEL WAS BORN UNDER A LUCKY<br/>STAR.</h1>
-        <p className="text-white"> Use this space to share the blurb of your latest story. Start with an engaging hook that will pique the reader's interest, introduce your main character and your setting, then tease the main conflict. Keep it short, intriguing, and relatable enough to keep the readers wanting more and ready to press "Add to Cart."
+        <p className="text-white"> Use this space to share the blurb of your latest story. Start with an engaging hook that will pique the reader&apos;s interest, introduce your main character and your setting, then tease the main conflict. Keep it short, intriguing and relatable enough to keep the readers wanting more and ready to press &quot;Add to Cart.&quot;
         </p>
-        <p className="text-white pt-5 pb-[60px]">Use this space to share the blurb of your latest story. Start with an engaging hook that will pique the reader's interest, introduce your main character and your setting, then tease the main conflict. Keep it short, intriguing, and relatable enough to keep the readers wanting more and ready to press "Add to Cart." Use this space to share the blurb of your latest story. Start with an engaging hook that will pique the reader's interest, introduce your main character and your setting, then tease the main conflict. Keep it short, intriguing, and relatable enough to keep the readers wanting more and ready to press "Add to Cart."
+        <p className="text-white pt-5 pb-[60px]">Use this space to share the blurb of your latest story. Start with an engaging hook that will pique the reader&apos;s interest, introduce your main character and your setting, then tease the main conflict. Keep it short, intriguing, and relatable enough to keep the readers wanting more and ready to press &quot;Add to Cart.&quot; Use this space to share the blurb of your latest story. Start with an engaging hook that will pique the reader&apos;s interest, introduce your main character and your setting, then tease the main conflict. Keep it short, intriguing, and relatable enough to keep the readers wanting more and ready to press &quot;Add to Cart.&quot;
         </p>
       </div>
       <div className="flex flex-col items-center justify-center">
@@ -39,7 +39,7 @@ export default function Temp1() {
         <button className="border-orange-500 border text-orange-500 uppercase px-4 py-2  hover:bg-orange-600 w-[250px]"> ROLK INC </button>
         </div>
         <div className="gap-4 flex flex-col lg:flex-row">
-        <button className="border-orange-500 border text-orange-500 uppercase px-4 py-2  hover:bg-orange-600 w-[250px]"> RIVIERA'S </button>
+        <button className="border-orange-500 border text-orange-500 uppercase px-4 py-2  hover:bg-orange-600 w-[250px]"> RIVIERA&apos;S </button>
         <button className="border-orange-500 border text-orange-500 uppercase px-4 py-2  hover:bg-orange-600 w-[250px]"> KOA & SONS </button>
         </div>
         <div className="gap-4 flex flex-col lg:flex-row">
@@ -54,15 +54,15 @@ export default function Temp1() {
         <h1 className="text-2xl font-bold text-orange-500 pt-[50px] pl-10">WHAT READERS ARE SAYING <br/>ABOUT STARBORN</h1>
         <div className="flex flex-col lg:flex-row lg:gap-10 lg:items-center lg:justify-center text-left p-[100px]">
         <div>
-        <p className="pt-5">"Share a review of your latest work or your most famous one. Short press releases will also work. So will a testimonial from your fans."</p>
+        <p className="pt-5">&quot;Share a review of your latest work or your most famous one. Short press releases will also work. So will a testimonial from your fans.&quot;</p>
         <p className="pt-5">- Chidi Eze, Fairhill Press</p>
         </div>
         <div>
-        <p className="pt-5">"Share a review of your latest work or your most famous one. Short press releases will also work. So will a testimonial from your fans. Share a review of your latest work or your most famous one. Short press releases will also work."</p>
+        <p className="pt-5">&quot;Share a review of your latest work or your most famous one. Short press releases will also work. So will a testimonial from your fans. Share a review of your latest work or your most famous one. Short press releases will also work.&quot;</p>
         <p className="pt-5">- Maia V., Maia the Bookworm Blog</p>
         </div>
         <div>
-        <p className="pt-5">"Share a review of your latest work or your most famous one. So will a testimonial from your most ardent readers and fans."</p>
+        <p className="pt-5">&quot;Share a review of your latest work or your most famous one. So will a testimonial from your most ardent readers and fans.&quot;</p>
         <p className="pt-5 pb-10">- Trisca Laghari, Venston Bay Post</p>
         </div>
         </div>
@@ -74,7 +74,7 @@ export default function Temp1() {
         </div>
         <div>
         <h1 className="text-4xl font-bold text-orange-500 pt-5">WHY COREY LEBLANC WRITES</h1>
-        <p className="text-black pt-4 p-10">Share a short biography about the author. It can be an engaging but straightforward bio. Or it can be a witty and slightly tongue-in-cheek write-up crafted to entertain. Present it in a way that is consistent with the author's brand. Share a short biography about the author. It can be an engaging but straightforward bio. Or it can be a witty and slightly tongue-in-cheek write-up crafted to entertain. Present it in a way that is consistent with the author's brand. Share a short biography about the author. It can be an engaging but straightforward bio.
+        <p className="text-black pt-4 p-10">Share a short biography about the author. It can be an engaging but straightforward bio. Or it can be a witty and slightly tongue-in-cheek write-up crafted to entertain. Present it in a way that is consistent with the author&apos;s brand. Share a short biography about the author. It can be an engaging but straightforward bio. Or it can be a witty and slightly tongue-in-cheek write-up crafted to entertain. Present it in a way that is consistent with the author&apos;s brand. Share a short biography about the author. It can be an engaging but straightforward bio.
         </p>
         <div className="flex items-start justify-start">
         <button className="border-orange-500 border text-orange-500 uppercase px-4 py-2  hover:bg-orange-600 w-[250px]"> READ MORE </button>

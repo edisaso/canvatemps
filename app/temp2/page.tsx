@@ -14,7 +14,7 @@ export default function Temp2() {
 
         <div className="text-black flex flex-col justify-center items-center"><h1 className="lg:text-9xl text-4xl font-bold">ELEVATE YOUR BRAND</h1></div>
 
-        <div className="text-black lg:px-[270px] px-5 pt-4 lg:pt-0"><h2 className="lg:text-3xl font-bold text-sm">STUDIO AGATHO HAS BEEN THE GO-TO COMPANY SINCE THE 80'S.<br/>GET YOUR DESIGN WORK DONE WITH US TOO.</h2></div>
+        <div className="text-black lg:px-[270px] px-5 pt-4 lg:pt-0"><h2 className="lg:text-3xl font-bold text-sm">STUDIO AGATHO HAS BEEN THE GO-TO COMPANY SINCE THE 80&apos;S.<br/>GET YOUR DESIGN WORK DONE WITH US TOO.</h2></div>
 
         <div className="flex lg:flex-row flex-col gap-5 justify-center pt-10 pb-10 px-10 lg:px-0">
             <div>
@@ -123,21 +123,21 @@ export default function Temp2() {
                     </div>
                     <div className="gap-5 flex flex-col">
                     <p className="font-bold">RIVETING DESIGN</p>
-                    <p>Write a paragraph that talks about your company here. You can talk about your company's background, history, mission, vision, or philosophy.</p>
-                    <p>Anything that will introduce your brand's persona to your clients.</p>
+                    <p>Write a paragraph that talks about your company here. You can talk about your company&apos;s background, history, mission, vision, or philosophy.</p>
+                    <p>Anything that will introduce your brand&apos;s persona to your clients.</p>
                     </div>
                 </div>
                 <div className="flex flex-col gap-5">
                     <Image src="https://ancaaaaaa.my.canva.site/sales-company-website/videos/6053f3729925d013cec6f2d08778165e.gif" alt="flower" height={112} width={112} />
                     <p className="font-bold">AGILE, VERSATILE, ENGAGED</p>
-                    <p>Write a paragraph that talks about your company here. You can talk about your company's background, history, mission, vision, or philosophy. Anything that will introduce your brand's persona to your clients.</p>
+                    <p>Write a paragraph that talks about your company here. You can talk about your company&apos;s background, history, mission, vision, or philosophy. Anything that will introduce your brand's persona to your clients.</p>
                     <p>This will help build a connection between you and them, that hopefully leads into a working relationship.</p>
                 </div>
                 <div className="flex flex-col gap-5">
                     <Image src="https://ancaaaaaa.my.canva.site/sales-company-website/videos/6053f3729925d013cec6f2d08778165e.gif" alt="flower" height={112} width={112} />
                     <p className="font-bold">INCLUSIVE AND DIVERSE VISUALS</p>
-                    <p>Write a paragraph that talks about your company here. You can talk about your company's background, history, mission, vision, or philosophy.</p>
-                    <p>Anything that will introduce your brand's persona to your clients.</p>
+                    <p>Write a paragraph that talks about your company here. You can talk about your company&apos;s background, history, mission, vision, or philosophy.</p>
+                    <p>Anything that will introduce your brand&apos;s persona to your clients.</p>
                 </div>
             </div>
 
